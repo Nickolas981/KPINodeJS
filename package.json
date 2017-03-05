@@ -1,0 +1,23 @@
+{
+  "name": "kpinodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "LinkedList.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nickolas981/KPINodeJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nickolas981/KPINodeJS/issues"
+  },
+  "homepage": "https://github.com/Nickolas981/KPINodeJS#readme",
+  "devDependencies": {
+    "eslint": "^3.17.0",
+    "eslint-config-google": "^0.7.1"
+  }
+}
